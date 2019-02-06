@@ -119,4 +119,10 @@ main div h1 {
   animation: strip5 1.2s;
 }
 
+@media (max-width: 480px) {
+  main div h1 {
+    font-size: 1.4rem;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */
